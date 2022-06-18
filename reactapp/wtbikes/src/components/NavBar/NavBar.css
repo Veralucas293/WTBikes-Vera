@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-around;
 }
-.Option {
+  .Option {
     /* color: #8C30F5; */
     text-decoration: none;
     border-radius: 25;
